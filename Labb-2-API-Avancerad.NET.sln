@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb-2-API-Avancerad.NET", "Labb-2-API-Avancerad.NET\Labb-2-API-Avancerad.NET.csproj", "{EF059A7B-4B54-480C-A843-9196D02254CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF059A7B-4B54-480C-A843-9196D02254CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF059A7B-4B54-480C-A843-9196D02254CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF059A7B-4B54-480C-A843-9196D02254CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF059A7B-4B54-480C-A843-9196D02254CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEC25D3B-1159-467F-88B7-EB47B4350480}
+	EndGlobalSection
+EndGlobal
